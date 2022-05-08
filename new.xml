@@ -1,0 +1,9 @@
+<xml> 
+	<name>Margarita Vladyko<name/>
+	<age>31<age/>
+		<pets>
+		   <number_of_pets>1<number_of_pets/>
+			   <type>cat<type/>
+			    <name>Barsik<name/>
+	<pets/>
+	<desired_salary>3000$<desired_salary/>
