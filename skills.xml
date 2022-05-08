@@ -1,0 +1,8 @@
+<xml> 
+	<skills>
+		<basic_theory>"bag reports", "documentation"<basic_theory/>
+		<HTTP_methods>"GET", "POST", "PUT", "DELETE"<HTTP_methods/>
+		<basic_SQL>"Create", "Read", "Drop", "Insert into", "Select", "From", "Where", "Join"<basic_SQL/>
+		<terminal_linux>Copy file, Create file, Delete file, Many others<terminal_linux/>
+	
+	<skills/>
