@@ -1,0 +1,9 @@
+<xml>
+  
+  <Bug_ID>BR01<Bug_ID/>
+  <Summary>Upgrade doesn't work<Summary/>
+ <Steps_to_reproduce> 1. Go to www.yolochka.com; 2.Click to upgrade button on the top of the page <Steps_to_reproduce/>
+ <Actual result>An error message appeared<Actual result/>
+ <Expected result>Start of update<Expected result/>
+ <Enviroment>Google Chrome v. 101.0.4951.54<Enviroment/>
+}
